@@ -8,7 +8,7 @@ Proyecto de la asignatura **Informática para el Trabajo Social**, Universidad d
 
 Este trabajo de investigación analiza las repercusiones psicológicas, afectivas y conductuales que causa la pérdida de la figura materna durante la adolescencia (período de especial vulnerabilidad en la construcción de la identidad y la autonomía).
 
-¿De qué manera la pérdida de la madre durante la adolescencia altera los estilos de apego y la seguridad afectiva en el joven?
+>¿De qué manera la pérdida de la madre durante la adolescencia altera los estilos de apego y la seguridad afectiva en el joven?
 
 ## Objetivos
 
