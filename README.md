@@ -1,6 +1,6 @@
 # MU-OZ
 Repositorio de investigación sobre cómo la orfandad materna afecta a los vínculos y redes de apoyo de las y los adolescentes, y qué papel pueden desempeñar los distintos entornos de apoyo y acompañamiento. 
-# [El impacto de la orfandad materna en el desarrollo del apego y la regulación emocional en la adolescencia]
+# El impacto de la orfandad materna en el desarrollo del apego y la regulación emocional en la adolescencia
 
 Proyecto de la asignatura **Informática para el Trabajo Social**, Universidad de Cádiz.
 
@@ -12,9 +12,9 @@ Este trabajo de investigación analiza las repercusiones psicológicas, afectiva
 
 ## Objetivos
 
-- [Identificar las principales repercusiones emocionales y del apego que experimentan los adolescentes tras la pérdida de la figura materna.]
-- [Explorar los factores de protección familiares e interpersonales que favorecen la resiliencia y el afrontamiento del duelo en esta etapa evolutiva.]
-- [Identificar la reestructuración de roles dentro del núcleo familiar (como la asunción de responsabilidades adultas o parentificación) tras la ausencia de la figura materna.]
+- Identificar las principales repercusiones emocionales y del apego que experimentan los adolescentes tras la pérdida de la figura materna.
+- Explorar los factores de protección familiares e interpersonales que favorecen la resiliencia y el afrontamiento del duelo en esta etapa evolutiva.
+- Identificar la reestructuración de roles dentro del núcleo familiar (como la asunción de responsabilidades adultas o parentificación) tras la ausencia de la figura materna.
 
 ## Web del proyecto
 
